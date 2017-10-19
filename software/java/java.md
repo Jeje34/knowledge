@@ -1,3 +1,3 @@
 # Java
 
-## Pourquoi le type primitif long n'est pas autorisée dans un switch ?
+## Pourquoi le type primitif long n'est pas autorisé dans un switch ?
