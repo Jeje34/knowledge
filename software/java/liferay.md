@@ -3,7 +3,6 @@
 ## Get users by custom field value
 
 	public static List<User> getUsersByCustomFieldValue(String key, String value) throws SystemException, PortalException {
-        // see https://web.liferay.com/fr/community/wiki/-/wiki/Main/Search+for+objects+by+custom+attributes
         List<User> users = new ArrayList<User>();
         long companyId = ...
         long userClassNameId = ClassNameLocalServiceUtil.getClassNameId(User.class.getName());
@@ -24,3 +23,9 @@
     }
     
 - https://web.liferay.com/fr/community/wiki/-/wiki/Main/Search+for+objects+by+custom+attributes
+
+## Stop Javascript minifier
+
+Put in URL as parameters :
+
+    &js_fast_load=0&css_fast_load=0&strip=0
