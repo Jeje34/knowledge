@@ -1,9 +1,8 @@
-# Liferay
+# Liferay 6.2
 
 ## Get users by custom field value
 
 	public static List<User> getUsersByCustomFieldValue(String key, String value) throws SystemException, PortalException {
-        // see https://web.liferay.com/fr/community/wiki/-/wiki/Main/Search+for+objects+by+custom+attributes
         List<User> users = new ArrayList<User>();
         long companyId = ...
         long userClassNameId = ClassNameLocalServiceUtil.getClassNameId(User.class.getName());
