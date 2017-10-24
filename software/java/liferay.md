@@ -23,3 +23,9 @@
     }
     
 - https://web.liferay.com/fr/community/wiki/-/wiki/Main/Search+for+objects+by+custom+attributes
+
+## Stop Javascript minifier
+
+Put in URL as parameters :
+
+    &js_fast_load=0&css_fast_load=0&strip=0
