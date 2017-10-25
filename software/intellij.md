@@ -8,6 +8,10 @@
 
 **SHIFT x2** : search everywhere
 
+**CTRL + /** : comment a line
+
+**CTRL + SHIFT + /** : comment a block
+
 ### Debug
 
 **F8** : go to next line 

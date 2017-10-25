@@ -14,3 +14,7 @@
 ## Check if an element has a given class
     
     $( "#mydiv" ).hasClass( "foo" )
+
+## Check if checkbox is checked
+    
+    $("#isAgeSelected").is(':checked')

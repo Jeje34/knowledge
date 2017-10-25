@@ -29,3 +29,15 @@
 Put in URL as parameters :
 
     &js_fast_load=0&css_fast_load=0&strip=0
+    
+## Get user connected
+
+    User user = (User) request.getAttribute(WebKeys.USER);
+    
+or
+    
+    User user  = (User) request.getAttribute(WebKeys.THEME_DISPLAY).getUser();
+    
+or
+
+    User user = PortalUtil.getUser(request);
