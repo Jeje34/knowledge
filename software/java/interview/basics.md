@@ -20,6 +20,13 @@ A new frame is created each time a method is invoked. A frame is destroyed when 
 4. **Program Counter Register** : contains the address of the JVM instruction currently being executed.
 5. **Native Method Stack** : contains all the native methods used in the application.
 
+## Why main() method is static in java?
+
+- main() method is entry point for any java program.
+- JVM looks for public static void main(String[] args) method
+- no compilation error
+- but runtime error because JVM doesn't find the entry point in the program
+
 ## Sources
 
 - https://www.javatpoint.com/corejava-interview-questions
