@@ -41,3 +41,7 @@ or
 or
 
     User user = PortalUtil.getUser(request);
+    
+## Duplicate a page
+
+Site Administration -> Pages -> Add new page -> Copy a page of this site
