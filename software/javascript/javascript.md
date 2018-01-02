@@ -27,6 +27,19 @@ The identity operator returns true if the operands are strictly equal with no ty
     var object1 = {'value': 'key'}, object2 = {'value': 'key'};
     object1 === object2 //false
 
-## Sources
+### Sources
 
 - [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators)
+
+## Loop on an array
+        
+    for (sensor of sensors) {
+        // ...
+    }
+   
+## Inserts new elements at the start of an array
+       
+     var a = [1, 2, 3];
+     a.unshift(4, 5);     
+     console.log(a); // [4, 5, 1, 2, 3]
+    

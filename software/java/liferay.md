@@ -45,3 +45,25 @@ or
 ## Duplicate a page
 
 Site Administration -> Pages -> Add new page -> Copy a page of this site
+
+## Create a CRON
+
+In liferay-portlet.xml, below \<portlet\> tag :
+
+    <scheduler-entry>
+        <scheduler-event-listener-class>com.fr.totaluap.tst.portlets.invoices.cron.SendEmailsImportSummaryCron</scheduler-event-listener-class>
+        <trigger>
+            <cron>
+                <cron-trigger-value>0 0 0 1/1 * ? *</cron-trigger-value>
+            </cron>
+        </trigger>
+    </scheduler-entry>
+    
+<br>
+    
+    public class SendEmailsImportSummaryCron implements MessageListener {
+        @Override
+        public void receive(Message message) throws MessageListenerException {
+            // ...
+        }
+    }
