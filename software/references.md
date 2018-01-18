@@ -9,6 +9,7 @@
 - [Code pumpkin](http://codepumpkin.com)
 - [Javaonfly](http://javaonfly.blogspot.fr/)
 - [Javaradar](https://javaradar.blogspot.com/)
+- [Dinesh on Java](https://www.dineshonjava.com/)
 
 ### Android
 
