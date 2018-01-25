@@ -37,6 +37,20 @@ Java 8 :
     String lines[] = ...;
     System.out.println(java.util.Arrays.toString(lines));
 
+## Operator "OR" in switch case
+
+    switch(val){    
+        case 1:
+        case 3:
+            // if val equals 1 OR 3 do stuff
+            break;    
+        case 2:
+            // do Stuff
+            break;    
+        default:
+            // do Stuff
+            break;    
+    }
 ## Pourquoi le type primitif long n'est pas autorisé dans un switch ?
 
 // String[] availableLocalesString = Arrays.stream(availableLocales).map(Locale::toString).toArray(String[]::new);

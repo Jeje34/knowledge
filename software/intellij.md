@@ -12,6 +12,10 @@
 
 **CTRL + SHIFT + /** : comment a block
 
+**CTRL + T** : update
+
+**CTRL + K** : commit 
+
 ### Debug
 
 **F8** : go to next line 
