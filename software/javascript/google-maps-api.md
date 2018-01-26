@@ -122,6 +122,14 @@ var bounds = new google.maps.LatLngBounds();
 bounds.extend(myLatLng);
 map.fitBounds(bounds);
 
+## Afficher un marqueur au dessus des autres
+
+    var marker = new google.maps.Marker({
+        position: position,
+        map: map,
+        zIndex: google.maps.Marker.MAX_ZINDEX + 1
+    });
+
 # Sources
 
 - https://openclassrooms.com/courses/google-maps-javascript-api-v3
