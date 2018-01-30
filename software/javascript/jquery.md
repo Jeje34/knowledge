@@ -52,3 +52,12 @@
         alert( "Handler for .contextmenu() called." );
     });
 
+## Disable submit button until file selected for upload
+
+    $('input:file').on("change", function() {
+        $('input:submit').prop('disabled', !$(this).val()); 
+    });
+
+## Get brothers and sisters
+
+    $("li.start").siblings()
