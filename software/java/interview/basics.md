@@ -27,6 +27,17 @@ A new frame is created each time a method is invoked. A frame is destroyed when 
 - no compilation error
 - but runtime error because JVM doesn't find the entry point in the program
 
+
+## Is it possible to instantiate an Abstract class in Java?
+
+* No, you cannot instantiate an abstract class in Java.
+* When you create an instance of a class, its constructor is called and even though abstract class can have a constructor, the compiler will not allow you to create an instance of the class.
+* It's a compile-time error to create an instance of an abstract class in Java :
+
+        Exception in thread "main" java.lang.Error: Unresolved compilation problem: at tool.Hello.main(Hello.java:15)
+
+
 ## Sources
 
 - https://www.javatpoint.com/corejava-interview-questions
+- http://www.java67.com/
