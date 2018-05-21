@@ -19,7 +19,8 @@
 - Italian's Pizza
 - Lee In
 - Papillons
-
+- Kimato Sushi
+- Le Vaquesso
 
 ### Tournefeuille
 
