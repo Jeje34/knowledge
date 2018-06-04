@@ -129,6 +129,16 @@ map.fitBounds(bounds);
         map: map,
         zIndex: google.maps.Marker.MAX_ZINDEX + 1
     });
+    
+## Hide “street view” on map
+
+    var mapOptions = {
+      center: mapCenter,
+      zoom: 10,
+      streetViewControl: false,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    };
+
 
 # Sources
 

@@ -61,3 +61,7 @@
 ## Get brothers and sisters
 
     $("li.start").siblings()
+    
+## Reset events 
+
+    $(".icon-remove").off("click").on('click', function (e) { ... });

@@ -51,6 +51,11 @@ Java 8 :
             // do Stuff
             break;    
     }
+
+## Remove leading zeros from a number in a string
+
+    productCode = productCode.replaceFirst("^0+(?!$)", "");
+
 ## Pourquoi le type primitif long n'est pas autorisé dans un switch ?
 
 // String[] availableLocalesString = Arrays.stream(availableLocales).map(Locale::toString).toArray(String[]::new);

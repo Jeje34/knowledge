@@ -14,7 +14,12 @@
 
 **CTRL + T** : update
 
-**CTRL + K** : commit 
+**CTRL + K** : commit
+ 
+**CTRL + C** : select current line (if nothing already selected)
+
+**ALT + F7** : find usages
+ 
 
 ### Debug
 
