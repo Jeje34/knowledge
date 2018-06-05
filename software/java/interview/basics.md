@@ -36,8 +36,61 @@ A new frame is created each time a method is invoked. A frame is destroyed when 
 
         Exception in thread "main" java.lang.Error: Unresolved compilation problem: at tool.Hello.main(Hello.java:15)
 
+## Can you make a class Static in Java?
+
+* cannot make a top level class static in Java, compile time error :
+    
+        "Illegal modifier for the class Top; only public, abstract & final are permitted
+
+* can make a nested class static in Java (good practice) then you can directly create an instance of nested class without first creating an object of enclosing class.
+                                              
+        class Top {
+            static class Nested {
+                ...
+            }
+        }
+         
+        Top.Nested n = new Top.Nested();
+  
+## Differences between StringBuffer, StringBuilder and String
+
+* StringBuffer and StringBuilder are mutable, but String is immutable : you can add, remove or replace characters from StringBuffer and StringBuilder objects but any change on String will always result in a new String object. 
+
+* StringBuffer and StringBuilder represent mutable String
+
+* If you need to manipulate String data then wrap it inside a StringBuffer or StringBuilder to avoid creating lots of small and temporary String objects and putting pressure on Garbage collector
+ 
+* StringBuffer and String are thread-safe but StringBuilder is not thread-safe. String achieves its thread-safety from Immutability but StringBuffer achieves it by synchronizing methods which change the state (append(), delete()...)
+
+* StringBuilder = StringBuffer without synchronized keyword, but StringBuilder is much faster than StringBuffer
+  
+* Use String if you need text data which is relatively constant 
+  
+* Use StringBuilder if are doing lots of String concatenation
+ 
+## Can you make an abstract class/method final in Java?
+
+- No, cannot make an abstract class or method final in Java
+- Abstract and final are exclusive concepts :
+    - Abstract class is incomplete and can only be instantiated by extending a concrete class and implementing all abstract methods
+    - Final class is considered as complete and cannot be extended further
+    - Abstract method must be overridden to be useful and called
+    - Final method cannot be overridden in Java
+- Compilation error :
+
+        The class XXX can be either abstract or final, not both
+        
+## Is it possible to have an abstract method in a final class?
+
+No, because as soon as you declare an abstract method in a class, the class automatically becomes an abstract class and you cannot make an abstract class final in Java (see above)
+
+## Can an abstract class have static methods in Java?
+   
+Yes, because you don't need to instantiate a class to use the static method, you can just call them by using the class name
+    
 
 ## Sources
 
 - https://www.javatpoint.com/corejava-interview-questions
 - http://www.java67.com/
+- http://javarevisited.blogspot.fr
