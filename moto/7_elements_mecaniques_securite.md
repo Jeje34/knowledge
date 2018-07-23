@@ -26,7 +26,7 @@ Une machine bien entrenue est gage de sécurité, l'entretien régulier de la mo
 
 ## Les feux
 
-- Permettes de se rendre visible aux autres usagers, obligatoires de jour comme de nuit
+- Permettent de se rendre visible aux autres usagers, obligatoires de jour comme de nuit
 - Il est donc nécessaire de vérifier
     - Le bon fonctionnement, l'état et la propreté des feux avants et arrières
     - L'éclairage et la propreté de la plaque arrière

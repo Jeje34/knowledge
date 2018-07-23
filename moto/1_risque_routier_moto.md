@@ -10,7 +10,7 @@
 
 Quelques statistiques de 2015 pour illustrer :
 - Les motocyclistes représentent 2% du trafic mais 20% des tués
-- 1 motard sur 4 est impliqué dans un accident corporel
+- Un motard est impliqué dans 1 accident corporel sur 4
 - 614 tués et plus de 5500 bléssés
 - 3% des tués ne portaient pas de casque
 - 93% des tués sont des hommes
