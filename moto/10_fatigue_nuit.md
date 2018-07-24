@@ -5,7 +5,7 @@
 - Une longue virée provoque de la fatigue et augmente la difficulté à rester concentré
 
 - Signes
-    - Position inconfortablr
+    - Position inconfortable
     - Membres engourdis, besoin d'étirer les jambes
     - Douleurs au dos et au cou
     - Regard figér sur l'avant

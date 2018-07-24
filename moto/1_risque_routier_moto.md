@@ -11,6 +11,9 @@
 Quelques statistiques de 2015 pour illustrer la vulnerabilité du motard :
 - Les motards représentent 2% du trafic mais 20% des tués
 - Impliqué dans 1 accident corporel sur 4
+Quelques statistiques de 2015 pour illustrer :
+- Les motocyclistes représentent 2% du trafic mais 20% des tués
+- Un motard est impliqué dans 1 accident corporel sur 4
 - 614 tués et plus de 5500 bléssés
 - Motard à 23 fois plus de risques d'être tué qu'un automobiliste à kilométrage égal
 - 3% des tués ne portaient pas de casque
