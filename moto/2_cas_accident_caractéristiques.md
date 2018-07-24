@@ -24,8 +24,8 @@
 
 ## Accidents en solo
 
-Les accidents en solo surviennent lorsque :
-- maitrise insuffisante de la moto
+Les accidents en solo (1/3 des cas) surviennent lorsque :
+- maitrise insuffisante de sa machine
 - faible expérience de la conduite
 - vitesse inadaptée à la situation
 - conduite à risque, non respect du code de la route

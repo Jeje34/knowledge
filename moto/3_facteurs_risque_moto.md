@@ -17,7 +17,7 @@
 - Vitesse excessive
     - Plus la vitesse est élevée, plus il est difficile d'éviter un obstacle et plus les conséquences sont importantes
     - Le champ de vision rétrécit quand la vitesse augmente (110° à l'arrêt, 30° à 130 km/h)
-    - En virage Risque de perte d'adhérence , risque de collision
+    - En virage : risque de perte d'adhérence , risque de collision
     - Détection compliquée pour les autres usagers
 
 - L'illusion de visibilité
@@ -32,13 +32,12 @@
     - 1 motard accidenté sur 10 à moins de 6 mois d'expérience, plusieurs causes :
         - Manque de maitrise et d'expérience
         - Excès de confiance en soi, sentiment d'invulérabilité
-        - Connaissance réduite de la circulation
-        - Peu de trajet diversifiés
+        - Connaissance réduite de la circulation, peu de trajet diversifiés
         - Echanges d'expériences avec d'autres motards permettent de progresser
 
 - Etat de la chaussée
     - Adhérence précaire : surface de contact équivalente à celle d'une carte de crédit
-    - Etre attentif à l'état de la chaussé : plaqes d'égouts, gravailles, traces grasses, bandes blanches, rainures -> adapter son allure
+    - Etre attentif à l'état de la chaussé : plaques d'égouts, gravailles, traces grasses, bandes blanches, rainures -> adapter son allure
 
 - Etat de la moto
     - Vérifier les niveaux
