@@ -2,28 +2,30 @@
 
 ## Le risque routier à moto
 
--  Etre motard c'est etre vulnerable, les risques de chutes sont nombreux :
-    * Dérapage, freinage, bloquage de roue
-    * Liés à météo : vent fort, pluie, neige, verglas
+-  Etre motard c'est etre vulnerable, pas de carrosserie et les risques de chutes sont nombreux
+    * Mauvais freinage
+    * Liés à météo
     * Incident mécanique
-    * Fatigue, maladie, distraction
+    * Fatigue etc.
 
-Quelques statistiques de 2015 pour illustrer :
+Quelques statistiques de 2015 pour illustrer la vulnerabilité du motard :
 - Les motocyclistes représentent 2% du trafic mais 20% des tués
 - Un motard est impliqué dans 1 accident corporel sur 4
 - 614 tués et plus de 5500 bléssés
-- 3% des tués ne portaient pas de casque
-- 93% des tués sont des hommes
 - Motard à 23 fois plus de risques d'être tué qu'un automobiliste à kilométrage égal
-- 15% des conducteurs de motos tués possédaient un permis probatoire
 - Risque plus élevé dans les 6 premiers mois après l'obtention du permis, ou dans les 6 premiers mois de reprise après une longue interruption
+- 15% des conducteurs de motos tués possédaient un permis probatoire
 
 
 ## Les accidents mortels à moto
 
 - Où ? 3 tués sur 5 hors-agglomération
-- Comment ? Seuls pour 1/3 des motards et plus souvent le jour que la nuit. Dans 9 cas sur 10 sur route sèche par beau temps.
-- Qui ? 1 tué sur 2 a entre 18 et 34 ans
+- Comment ?
+    - Seuls pour 1/3 des motards et plus souvent le jour que la nuit.
+    - Dans 9 cas sur 10 sur route sèche par beau temps.
+- Qui ?
+    - 1 tué sur 2 a entre 18 et 34 ans
+    - 93% des tués sont des hommes
 
 ## Gravité
 

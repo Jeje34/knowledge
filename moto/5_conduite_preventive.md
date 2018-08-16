@@ -2,7 +2,7 @@
 
 ## Anticipation
 
-- Détecter les situations dangereuses pour pouvoir les éviter (intersection, routé étroite etc.)
+- Détecter les situations dangereuses pour pouvoir les éviter 
 - Recherche d'indices :
     - voir large
     - voir loin devant

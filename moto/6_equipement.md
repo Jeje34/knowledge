@@ -31,10 +31,10 @@
 - Permet de protéger les mains du froid, mais surtout des brulures en cas de chute
 - Obligatoires été comme hiver pour le motard et son passager
 - Amende et retrait de 1 point
-- Homologués NF, CE renforcés aux articulations et à la paume
+- Idéal : homologués CE, en cuir, renforcés aux articulations et à la paume, doté d'une patte de serrage
 
 ## Les chaussures
 
 - Permet de protéger les pieds, chevilles et tibias en cas de chute
 - Tenue idéale : bottes spécifiques moto, chaussures en cuir montantes pour protéger chevilles et tibias
-- Tenus à proscrire : talons, chaussures basses, sandales
+- Tenues à proscrire : talons, chaussures basses, sandales, tongs
