@@ -9,9 +9,7 @@
     - Alcool + drogues multiplie le risque d'accident mortel par 14
 
 - Fatigue
-    - reduction des facultés d'observations et d'analyse
-    - baisse de vigilance
-    - négligence
+    - entraine négligence et baisse de vigilance
     - Solution : ne prendre la route qu'en pleine forme et faire des pauses régulièrement
 
 - Vitesse excessive
