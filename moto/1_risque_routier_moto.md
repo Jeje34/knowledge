@@ -3,7 +3,7 @@
 ## Le risque routier à moto
 
 -  Etre motard c'est etre vulnerable, les risques de chutes sont nombreux :
-    * Dérapage, freinage, bloquage de rouge
+    * Dérapage, freinage, bloquage de roue
     * Liés à météo : vent fort, pluie, neige, verglas
     * Incident mécanique
     * Fatigue, maladie, distraction
