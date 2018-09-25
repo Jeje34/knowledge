@@ -1,0 +1,1 @@
+si ça ne marche pas avec du scotch, c'est qu'il n'y a pas assez de scotch
