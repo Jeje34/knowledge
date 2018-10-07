@@ -11,3 +11,7 @@
 - Howard détruit par sa culpabilité dans la mort de Chuck
 - Kim qui n'a pas répondu à l'urgence de Mesa Verde
 
+## Episode 6
+
+- Kim et Jimmy stagiaire chez HHM distribue le courrier
+-
