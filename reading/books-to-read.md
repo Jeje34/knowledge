@@ -1,0 +1,16 @@
+## Books to read
+
+- Le Horla - Guy de Maupassant (1886)
+- Fahrenheit 451 - Ray Bradbury (1953)
+- La Métamorphose - Franz Kafka (1915)
+- Voyage au bout de la nuit - Louis-Ferdinand Céline (1932)
+- 1984 - George Orwell (1949)
+- La Ferme des Animaux - George Orwell (1945)
+- Le rouge et le Noir - Stendhal (1830)
+- La peur (et autres contes fantastiques) - Guy de Maupassant (1882)
+- L'étranger - Albert Camus (1942)
+- La peste - Albert Camus (1947)
+- Les Fleurs du Mal - Charles Baudelaire (1857)
+- Des Souris et des Hommes - John Steinbeck (1937)
+- Le Vieil homme et la mer - Ernest Hemingway (1951)
+- Le Petit Prince - Antoine de Saint-Exupéry (1943)
