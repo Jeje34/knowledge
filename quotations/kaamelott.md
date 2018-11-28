@@ -16,3 +16,5 @@ Ne commencez pas a noyer la peau de l'ours avant d'avoir vendu le poisson
 * Mission accomplie. Le petit chien est sur la pente fatale.
   C'est quoi ça?
   C'est du code. Un code que nous avons mis au point pendant notre garnison, mon oncle
+  Excusez-moi, pPour moi les femmes, j'ai pas ça, c'est de la saloperie - le purgateur
+ * Je vais vous dire, à ce niveau là, c'est plus de la gastronomie, c'est de l'érotisme

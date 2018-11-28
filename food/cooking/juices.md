@@ -2,6 +2,12 @@
 
 ## Testés
 
+### 5/5
+
+- 2 pommes
+- 2 grappes de raisins
+- 1/2 baton de canelle
+
 ### 4/5
 
 - 3 carottes
