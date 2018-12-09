@@ -1,3 +1,4 @@
 - Quiche lorraine
 - Echine de porc + riz + sauce soja
--
+- Tarte au thon
+- Saucisses cuite dans l'eau avec hrbe
