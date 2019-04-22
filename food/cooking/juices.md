@@ -1,5 +1,10 @@
 # Juices
 
+- carotte, pamplemousse, gingembre, orange
+- carotte, pamplemousse, kiwi, gingembre, citron jaun
+-pomme, poire, carotte, gingembre
+
+
 ## Testés
 
 ### 5/5

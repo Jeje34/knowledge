@@ -12,8 +12,14 @@
 - 1 ailier remplacant  (talanpionka)
 - 1 milieu SOLT 50% a renvendre à la fin du cycle (vallet)
 
-- 3 milieu a conserver (valin, ringard)
-- 3 milieu a former buteur (Lesaulnier, delporte)
+- 3 milieu a conserver
+    - Yann Valin (Imprévisible)
+    - Ludovic Ringard (Rapide)
+    - Gilles Delcambre (Costaud)
+- 3 milieux à former buteur
+    - Alexandre Lesaulnier (Costaud)
+    - Grégory Delporte (Costaud)
+    - Malik Diane(Imprévisible)
 
 reste 1 gros ailier +  1 milieux + 1 milieux buteurs
 

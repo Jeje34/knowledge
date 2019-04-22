@@ -21,7 +21,9 @@
 - Papillons
 - Kimato Sushi
 - Le Vaquesso
-
+- Solides
+    - Veau mi-cru, polenta
+    -
 ### Tournefeuille
 
 - La Belle Histoire
