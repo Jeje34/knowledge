@@ -1,17 +1,23 @@
-# Entrainement Corrida Pedestre 2019
+# Entrainement 10 km Tournefeuille
 
 - FCM : 192 bpm
 - 65-75% (EF) : 125-146
 - 80-85% : 154-163
 - 85-90% : 163-173
 
+## Transition
+
+### Semaine 1
+- EF	Footing 45'
+- 80-85FCM	3 * 6' à 80-85%FCM avec R=2'
+- SL	1h10 à 70-75%FCM
+
+### Semaine 2
+- EF	Footing 45'
+- 80-85FCM	3 * 7' à 80-85%FCM avec R=2'
+- SL	1h15 à 70-75%FCM
 
 ## Plan entrainement 10 km
-
-### Semaine 0
-- EF	Footing de 45 minutes
-- EF	Footing de 45 minutes
-- SL	Sortie Longue de 1h15 à 70-75%FCM
 
 ### Semaine 1
 - EF	Footing de 45 minutes
@@ -72,3 +78,12 @@
 - Vendredi : CCAP
 - Samedi : Vélo
 - Dimanche : Natation (Bassin Castex)
+
+
+
+
+
+
+
+
+

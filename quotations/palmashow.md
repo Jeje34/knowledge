@@ -1,2 +1,4 @@
 - Ton coeur il a battu la charade
 - L'habit ne fait pas le curé
+- C'est pas la tramontane ça hein ! Qu'est ce que c'est que cette éphéméride ?
+-

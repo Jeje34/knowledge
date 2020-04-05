@@ -15,3 +15,9 @@
 
 ## Les branleurs
 
+
+## Le commissariat de police
+
+- Je m'appelle Marcel Pattalucci, brigadier-chef et agent de la paix avant tout
+- Ce n'est pas qu'on est des sur hommes, nous sommes a forciori des hommes commes les autres. A forciori nous sommes donc des hommes avant tout.
+- Trouvez tous les subterfuges adéquats"
