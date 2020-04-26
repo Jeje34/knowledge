@@ -1,3 +1,0 @@
-- Plus la durée d’emprunt est longue et plus le coût de votre crédit immobilier sera élevé. En plus, plus la durée est élevée et plus le taux du prêt augmente. Vous avez donc tout intérêt à limiter au maximum la durée de votre prêt ! Regardez pourquoi il faut fuir les prêts sur 25 ou 30 ans.
-- Pas plus de 33% d'endettement
-- Apport 10% généralement demandé

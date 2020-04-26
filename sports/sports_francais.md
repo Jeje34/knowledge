@@ -1,5 +1,0 @@
-- Sports automobile
-- Billard
-- Escrime
-- Pétanque
-- Cyclisme
